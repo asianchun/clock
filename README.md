@@ -4,16 +4,15 @@ Welcome to the Simple Stopwatch App! This project is a Java implementation of a 
 
 ## Table of Contents
 
-- [Demo](#demo)
+- [Screenshot](#screenshot)
 - [Features](#features)
 - [Run Locally](#run-locally)
 - [Usage](#usage)
 - [Customisation](#customisation)
 - [Contributing](#contributing)
 
-## Demo
-
-Check out the live demo of the Stopwatch [here](#).
+## Screenshot
+![Alt Text](/screenshot.png?raw=true "Optional Title")
 
 ## Features
 
